@@ -21,3 +21,4 @@ Third step part two is here./
 
 ## Copyright
 2014 Git.Training
+2018 Revised Git.Training
