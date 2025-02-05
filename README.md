@@ -17,3 +17,7 @@ First register yourself with your leetcode profile credentials.
 Second step is here.
 Third step is here./
 Third step part two is here./
+
+
+## Copyright
+2014 Git.Training
