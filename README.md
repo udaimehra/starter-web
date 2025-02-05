@@ -14,3 +14,5 @@ You can always look at the log files to start as first step of debugging.
 ## How to contribute
 First register yourself with your leetcode profile credentials.
 First register yourself with your leetcode profile credentials.
+Second step is here.
+Third step is here./
